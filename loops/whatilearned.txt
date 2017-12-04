@@ -1,0 +1,10 @@
+for loops with initialization and post... for loops with only condition... 
+nested for loops...
+runes
+list basic in order to get []byte(i) where i is a string...
+if else
+switch 
+fallthrough
+conditioned switch
+type based switch
+
